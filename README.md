@@ -25,4 +25,4 @@ If you get a 429 error, consider using a proxy.
 I do not provide any additional fields or metadata for message data.
 
 # Emailnator
-https://github.com/Imp1ex/Temp-Mail-Client/blob/main/emailnator.py
+https://github.com/deltoid7/Temp-Mail-Emailnator-Client/blob/main/emailnator.py
